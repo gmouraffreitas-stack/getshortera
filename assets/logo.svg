@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" width="96" height="96" role="img" aria-label="Shortera">
+  <rect width="96" height="96" rx="22" fill="#2f7bf6"/>
+  <g transform="translate(24 24) scale(1.2)">
+    <path d="M30 8 H14 a6 6 0 0 0 0 12 H26 a6 6 0 0 1 0 12 H10" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+    <path d="M4 40 L36 4" stroke="#2f7bf6" stroke-width="4"/>
+  </g>
+</svg>
